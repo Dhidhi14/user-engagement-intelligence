@@ -126,6 +126,7 @@ Then open **http://localhost:8501**.
 
 ```
 user-engagement-intelligence/
+├── assets/                         # Screenshots for this README
 ├── app.py                          # Streamlit dashboard (main deliverable)
 ├── data/
 │   ├── users.csv                   # Raw synthetic user data
